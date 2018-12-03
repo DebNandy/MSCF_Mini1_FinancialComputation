@@ -1,2 +1,2 @@
 # MSCF_Mini1_FinancialComputation
-This repository is for C++ Financial Computation Course at CMU MSCF
+This repository is for C++ Financial Computation Course at CMU MSCF for Mini 1
