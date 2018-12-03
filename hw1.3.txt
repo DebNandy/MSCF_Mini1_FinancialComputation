@@ -1,0 +1,37 @@
+
+Authors:
+
+DEBAJYOTI NANDY
+PALLAV RAJ
+AVINASH SHRIVASTAVA
+
+MSCF, Pittsburgh
+
+HW-1-Question #3
+
+a) Zebra ***(*X[3][9][7])[14];
+
+X is an array-of-3 array-of-9 array-of-7 pointer-to array-of-14 pointer-to pointer-to pointer-to Zebra
+
+b) Stump (***X[3])[12][8];
+
+X is an array-of-3 pointer-to pointer-to pointer-to array-of-12 array-of-8 Stump
+
+c) Toaster **(*(**(*X)[7])[12][5])[128][51];
+
+X is a pointer-to array-of-7 pointer-to pointer-to array-of-12 array-of-5 pointer-to array-of-128 array-of-51 pointer-to pointer-to Toaster
+
+d) C++ declaration of "array-of-9 pointer-to pointer-to pointer-to array-of-64 pointer-to pointer-to pointer-to Wombat"
+
+   Wombat ***(***X[9])[64]
+
+e) C++ declaration of "array-of-3 array-of-4 pointer-to array-of-17 array-of-2 pointer-to pointer-to array-of-9 Laptop"
+
+   Laptop (**(*X[3][4])[17][2])[9]
+
+f) C++ declaration of "pointer-to pointer-to array-of-13 pointer-to pointer-to array-of 5 array-of-6 pointer-to pointer-to Bag"
+
+   Bag **(**(**X)[13])[5][6]
+
+
+   
